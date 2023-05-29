@@ -3,7 +3,7 @@ This is the github profile of Quesnok  - Fullstack Developer and Streamer.
 All the projects, scripts and examples I build on stream will be uploaded here.
 I might also collect some sheets, scripts or repos I consider helpfull.
 
-# my stack
+## my stack
 - Python
 - Javascript / React
 - SQL (mostly Postgres)
