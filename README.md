@@ -6,11 +6,12 @@ I might also collect some sheets, scripts or repos I consider helpfull.
 [Projects](https://github.com/CCiwy/CCiwy/blob/main/README.md#projects-overview) - [Twitch](https://github.com/CCiwy/CCiwy/blob/main/README.md#about-my-twitch-channel) - [Contact](https://github.com/CCiwy/CCiwy/blob/main/README.md#-reach-out-to-me-)
 
 ## my stack
-- Python
-- Javascript / React
+![Python logo](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_32x32.png)
+![Javascript logo](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png)
+![HTML logo](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_32x32.png)
+![CSS logo](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_32x32.png)
+![Bash logo](https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/32x32.png)
 - SQL (mostly Postgres)
-- Bash
-
 Played around with Rust and Typescript, but i'm at a beginner level.
 I have used PHP and JAVA in the past, but not in the recent years. I also did some
 C, C# and C++ but I'm completly out of practice.
