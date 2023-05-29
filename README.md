@@ -12,17 +12,20 @@ I might also collect some sheets, scripts or repos I consider helpfull.
 Played around with Rust and Typescript, but i'm at a beginner level.
 I have used PHP and JAVA in the past, but not in the recent years. I also did some
 C, C# and C++ but I'm completly out of practice.
-
+___
 # Projects Overview
 This is a short summary of my repositories, a brief introduction into my projects.
 If you want to read more about the projects checkout their respective README or ROADMAP files.
 
+
 ## Full projects
 Full projects i build on stream. They have a specific reason why i started to build them and, at some point in time, should be considered "complete".
+
 
 ### [py-starlette-base](https://github.com/CCiwy/py-starlette-base)
 a boilerplate project for webapplications build in python with [starlette](https://github.com/encode/starlette). It aims at minimizing the work that needs to be done to create new webapplications (CRUD/REST).
 It includes a basic controller for routes, an async database connection module (build with [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)), logging (stdout, files, mail), error-handling and a configparser.
+
 On the "usercontroller" branch is a basic implementation of a controller (for a '/user' endpoint) including account creation and authentication.
 
 This project could already be reused, but is still work in progress.
@@ -60,15 +63,16 @@ A project merely created in order to explain the usage of git and github to view
 ### [py-array-playground](https://github.com/CCiwy/py-array-playground)
 A pyton file I created for one of my viewers to explain how he could handle "arrays of arrays". As i understood he needed something for his scientific research and didnt know if python could be helpfull for his usecase.
 
-
+___
 
 ## About my Twitch channel
-I stream pretty regularly on Twitch, depending on how much free time I have.
+I have a twitch channel [twitch.tv/quesnok](https://www.twitch.tv/quesnok) where I stream pretty regularly, depending on how much free time I have.
 My goals are to teach and learn by building usefull stuff that others can use and establish a nice community along the way.
 
 
 #### Stream Language
 I stream in english, but since i'm a native german speaker i will respond to german in chat, too. Sometimes i will also just speak german for a short period - dont get confused if you join the stream and I am not speaking english, just let me know that you need me to switch language in order for you to understand.
+___
 
 ## ************** reach out to me **************
 I build web-based applications, mostly around processing documents and user-input into documents or statistics. Furthermore, I provide the servers and maintain the applications, if desired.
