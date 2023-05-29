@@ -74,6 +74,9 @@ My goals are to teach and learn by building usefull stuff that others can use an
 
 #### Stream Language
 I stream in english, but since i'm a native german speaker i will respond to german in chat, too. Sometimes i will also just speak german for a short period - dont get confused if you join the stream and I am not speaking english, just let me know that you need me to switch language in order for you to understand.
+
+#### Community
+Community-Discord is linked in the channels description.
 ___
 
 ## ************** reach out to me **************
