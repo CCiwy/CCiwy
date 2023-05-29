@@ -71,7 +71,7 @@ A pyton file I created for one of my viewers to explain how he could handle "arr
 ___
 
 ## About my Twitch channel
-I have a twitch channel [twitch.tv/quesnok](https://www.twitch.tv/quesnok) where I stream pretty regularly, depending on how much free time I have.
+On my twitch channel [twitch.tv/quesnok](https://www.twitch.tv/quesnok) I stream pretty regularly, depending on how much free time I have.
 My goals are to teach and learn by building usefull stuff that others can use and establish a nice community along the way.
 
 
