@@ -24,7 +24,7 @@ If you want to read more about the projects checkout their respective README or 
 
 
 ## Full projects
-Full projects i build on stream. They have a specific reason why i started to build them and, at some point in time, should be considered "complete".
+Full projects I build on stream. They have a specific reason why I started to build them and, at some point in time, should be considered "complete".
 
 
 ### [py-starlette-base](https://github.com/CCiwy/py-starlette-base)
