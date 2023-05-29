@@ -11,6 +11,7 @@ I might also collect some sheets, scripts or repos I consider helpfull.
 ![HTML logo](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_32x32.png)
 ![CSS logo](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_32x32.png)
 ![Bash logo](https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/32x32.png)
+
 Python for backend, JavaScript/HTML/CSS for frontend. Python and Bash for scripts (mostly around setting up projects, managing projects and deployment).
 SQL (mostly Postgres) for Databses.
 Played around with Rust and Typescript, but i'm at a beginner level.
