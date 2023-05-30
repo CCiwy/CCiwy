@@ -45,7 +45,7 @@ Configparser for python applications. Allows reading of .json and .py-files.
 Easy extends applications and load configuration files, easy access vars stored.
 
 
-This project can already be used but will recieve some updates in the future.
+This project can already be used but will receive some updates in the future.
 
 ## Learning or Teaching something new
 This are projects build without any special purpose other than undertanding/teaching a particular technology.
