@@ -13,7 +13,7 @@ I might also collect some sheets, scripts or repos I consider helpfull.
 ![Bash logo](https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/32x32.png)
 
 Python for backend, JavaScript/HTML/CSS for frontend. Python and Bash for scripts (mostly around setting up projects, managing projects and deployment).
-SQL (mostly Postgres) for Databses.
+SQL (mostly Postgres) for Databases.
 Played around with Rust and Typescript, but i'm at a beginner level.
 I have used PHP and JAVA in the past, but not in the recent years. I also did some
 C, C# and C++ but I'm completly out of practice.
